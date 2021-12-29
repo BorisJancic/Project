@@ -114,3 +114,7 @@ def radialNeighbours(point, given, num):
         currentPoints.pop(index)
     # print(nearest)
     return nearest
+
+    print("ur mom")
+
+    
